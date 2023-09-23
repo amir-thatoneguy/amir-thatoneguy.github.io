@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - amir-thatoneguy
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - amir-thatoneguy/DP-with-normalized-class-representatives
+  - amir-thatoneguy/deep-class-aware-ood
+  - amir-thatoneguy/graph-structure-shift-transfer
+  - amir-thatoneguy/EEG-transfer-learning-research
+  - amir-thatoneguy/Conformer-Farsi
