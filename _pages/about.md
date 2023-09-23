@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I'm Mohammad Mahdi (I go by the name Amir), a 23 year old student at the EE department of the Sharif University of Technology, Tehran. I spend most of my time doing research, especially on various aspects of making machine learning models secure and trustworthy. 
+I'm Mohammad Mahdi (I go by the name Amir), a 23 year old student at the EE department of the Sharif University of Technology, Tehran. I spend most of my time doing research, especially on taking a mathematical approach to applied problems in machine learning.
 
 My broad research interests are applied probability, trustowrthy and secure machine learning (differential privacy, out-of-distribution detection and generalization, etc.), and the theory of deep learning. 
 
