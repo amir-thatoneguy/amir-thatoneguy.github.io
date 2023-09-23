@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I do research.
+subtitle: I like applied probability and statistics.
 
 profile:
   align: right
@@ -20,4 +20,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`.
