@@ -24,4 +24,5 @@ I've recently had the great opportunity to start working and collaborating on se
 
 
 
+<br>
 [Here's](https://amir-thatoneguy.github.io/assets/pdf/CV_Conciser%20(1).pdf) a short resume of mine. See the [projects](https://amir-thatoneguy.github.io/projects/) and [teaching](https://amir-thatoneguy.github.io/teaching/) pages for detailed information on what I do.
