@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: This page contains some of the material I've created for the purpose of teaching.
 nav: true
 nav_order: 5
