@@ -2,38 +2,32 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mohammad Mahdi Mirrashid
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24th October 2000
     - name: Languages
-      value: English, German
+      value: Farsi, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.Sc.
+      institution: Sharif University of Technology
+      year: 2019 - Ongoing
       description:
-        - Description 1.
+        - Electrical Engineering
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+            
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Collaboration with The Allan Turing Institute, UK.
+      year: 2023 - Ongoing
       description:
         - Description 1.
         - Description 2.
@@ -41,23 +35,23 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
+    - title: Research Assistant
+      institution: Data Science and Machine Learning Laboratory at Sharif, Iran.
       year: 1933
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
+    - title: Independent Research
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
       year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+    - title: Research Assistant
+      institution: Collaboration with University of Edinburgh, UK.
       year: 1911 - 1917
       description:
 
-    - title: Associate Professor of Theoretical Physics
+    - title: Research Assistant
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
@@ -71,13 +65,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: 321
+      year: 123
+
 
 - title: Academic Interests
   type: nested_list
