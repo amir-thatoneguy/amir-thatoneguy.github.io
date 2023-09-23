@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mohammad Mahdi Mirrashid",
+    "label": "Researcher, Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "amirmm379@gmail.com",
+    "phone": "+989112692921",
+    "url": "https://amir-thatoneguy.github.io/",
+    "summary": "Researcher on trustworthy and secure machine learning (differential privacy, out-of-distribution detection, generalization, etc.). Student at the EE department of Sharif University of Technology (Tehran)",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
