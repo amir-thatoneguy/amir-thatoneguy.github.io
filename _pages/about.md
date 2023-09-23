@@ -18,4 +18,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`.
+I'm Mohammad Mahdi (I go by the name Amir), a 23 year old student at the EE department of the Sharif University of Technology, Tehran. I spend most of my time doing research, especially on various aspects of making machine learning models secure and trustworthy. Here's a short resume of mine. For more information on what I do, see the projects page. I also like to teach stuff, and you can access some of my presentations at the teaching page of this website. 
