@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: DP with Self-Supervision
+description: differential privacy without randomized gradients
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: einstein1956investigations
 ---
 
 Every project has a beautiful feature showcase page.
@@ -14,12 +14,6 @@ Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,9 +38,6 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
 <div class="row justify-content-sm-center">
