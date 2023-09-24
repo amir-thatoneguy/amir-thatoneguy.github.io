@@ -2,8 +2,9 @@ github_users:
   - amir-thatoneguy
 
 github_repos:
+  - amir-thatoneguy/graph-structure-shift-transfer
   - amir-thatoneguy/DP-with-normalized-class-representatives
   - amir-thatoneguy/deep-class-aware-ood
-  - amir-thatoneguy/graph-structure-shift-transfer
+  - amir-thatoneguy/FedAvg_implementation
   - amir-thatoneguy/EEG-transfer-learning-research
   - amir-thatoneguy/Conformer-Farsi
