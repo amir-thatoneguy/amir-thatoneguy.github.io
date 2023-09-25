@@ -21,7 +21,7 @@ This time around we tried to make the course more interesting for a wider audien
 I've been a teaching assistant for multiple courses. These include Object-Oriented Programming (formerly Advanced Programming), Introduction to Machine Learning, and Linear Algebra (Mathematical Methods in Engineering). 
 
 ### Introduction to Machine Learning
-For the course offered by the IE departmnet, I created the materials for the autoencoders and GANs sessions ([here](https://docs.google.com/presentation/d/1oJPbMPNHe-TOZ-yJx_pPuMg5CNCCnxfB/edit?usp=sharing&ouid=105644808195847419044&rtpof=true&sd=true)). For the courses offered by the EE department I've mostly helped with the course projects (2023, Dr. Amini, 2023, Dr. Shamsollahi). 
+For the course offered by the IE departmnet, I created the materials for the autoencoders and GANs sessions ([here](https://docs.google.com/presentation/d/1sAClFyLLSPQNh0kDS3EfUNDxneOWgbHlkUz1yW2dFec/edit?usp=sharing)). For the courses offered by the EE department I've mostly helped with the course projects (2023, Dr. Amini, 2023, Dr. Shamsollahi). 
 
 I also designed homeworks. See [this](https://amir-thatoneguy.github.io/assets/pdf/sol4_ml.pdf) for an example.
 
