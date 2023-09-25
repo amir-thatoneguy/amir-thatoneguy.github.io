@@ -23,3 +23,5 @@ My broad research interests are applied probability, trustowrthy and secure mach
 I've recently had the great opportunity to start working and collaborating on several research projects I'm passionate about, including one at [The Alan Turing Institute](https://www.turing.ac.uk/) at London with Dr. Gholamali Aminian, and another one at the [Data Science and Machine Learning Laboratory (DML)](http://dml.ir/) at Tehran with Prof. Hamid R. Rabiee. <br>
 
 [Here's](https://amir-thatoneguy.github.io/assets/pdf/CV_Conciser%20(1).pdf) a short resume of mine. See the [repositories](https://amir-thatoneguy.github.io/repositories/) and [teaching](https://amir-thatoneguy.github.io/teaching/) pages for detailed information on what I do.
+
+When not working, I take hours-long walks outside, talk about life with friends, listen to extreme metal ([Vildjharta](https://www.youtube.com/watch?v=ZSrMw_VbanM&ab_channel=CenturyMediaRecords) is a favorite), listen to classical music (usually [Rachmaninoff](https://www.youtube.com/watch?v=dbbtmskCRUY&ab_channel=Variatio24)), and sometimes play the piano (and fail at it).
