@@ -23,8 +23,6 @@ I've been a teaching assistant for multiple courses. These include Object-Orient
 ### Introduction to Machine Learning
 For the course offered by the IE departmnet, I created the materials for the autoencoders and GANs sessions ([here](https://docs.google.com/presentation/d/1sAClFyLLSPQNh0kDS3EfUNDxneOWgbHlkUz1yW2dFec/edit?usp=sharing)). For the courses offered by the EE department I've mostly helped with the course projects (2023, Dr. Amini, 2023, Dr. Shamsollahi). 
 
-I also designed homeworks. See [this](https://amir-thatoneguy.github.io/assets/pdf/sol4_ml.pdf) for an example.
-
 ### Object-Oriented Programming
 I was the course project head in the 2022 course. The project I designed was a simple social media app with a simple recommender system. The recommender system consisted of simple neighbor aggregation for finding non-neighboring nodes with the highest number of common neighbors, and ranking them online for suggestions (a friends-of-friends approach).
 
