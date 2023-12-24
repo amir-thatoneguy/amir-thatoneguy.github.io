@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Mohammad Mahdi (I go by the name Amir), a 23 year old student at the EE department of the [Sharif University of Technology](https://en.wikipedia.org/wiki/Sharif_University_of_Technology), Tehran. I spend most of my time doing research, especially on taking a mathematical approach to applied problems in machine learning.
 
-I've recently had the great opportunity to start working and collaborating on multiple research projects I'm passionate about, including one at [The Alan Turing Institute](https://www.turing.ac.uk/) at London with Dr. Gholamali Aminian, and another one at the [Data Science and Machine Learning Laboratory (DML)](http://dml.ir/) at Tehran with Prof. Hamid R. Rabiee. <br>
+I've recently had the great opportunity to start working and collaborating on multiple research projects I'm passionate about, including one at The Alan Turing Institute at London with Dr. Gholamali Aminian, and another one at the Data Science and Machine Learning Laboratory (DML) at Tehran with Prof. Hamid R. Rabiee. <br>
 
 [Here's](https://amir-thatoneguy.github.io/assets/pdf/CV_Conciser%20(1).pdf) a short resume of mine. See the [repositories](https://amir-thatoneguy.github.io/repositories/) and [teaching](https://amir-thatoneguy.github.io/teaching/) pages for detailed information on what I do.
 
