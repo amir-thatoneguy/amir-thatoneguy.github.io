@@ -20,7 +20,7 @@ I'm Mohammad Mahdi (I go by the name Amir), a 23 year old student at the EE depa
 
 I've recently had the great opportunity to start working and collaborating on multiple research projects I'm passionate about, including one at The Alan Turing Institute at London with Dr. Gholamali Aminian, and another one at the Data Science and Machine Learning Laboratory (DML) at Tehran with Prof. Hamid R. Rabiee. <br>
 
-[Here's](https://amir-thatoneguy.github.io/assets/pdf/CV_Conciser%20(1).pdf) a short resume of mine. See the [repositories](https://amir-thatoneguy.github.io/repositories/) and [teaching](https://amir-thatoneguy.github.io/teaching/) pages for detailed information on what I do.
+[Here's](https://amir-thatoneguy.github.io/assets/pdf/CV_Conciser%20(5).pdf) a short resume of mine. See the [repositories](https://amir-thatoneguy.github.io/repositories/) and [teaching](https://amir-thatoneguy.github.io/teaching/) pages for detailed information on what I do.
 
 
 ## Interests
