@@ -34,7 +34,7 @@ nav: true
 		ASTROWORLD, Travis Scott
 		Empath, Devin Townsend
   		Litourgiya, PATRIARKH
-  		f(x), Pink Tape
+		f(x), Pink Tape
     		
 
 		Imperfect Chemistry, Mary Frame
