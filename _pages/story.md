@@ -1,7 +1,6 @@
 ---
 layout: about
 title: A Short Story by Me
-permalink: /
 
 
 
