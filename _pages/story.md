@@ -47,6 +47,8 @@ nav: true
 
 		Dogtooth
 
+  		
+
 ## In Between:
 	
 		Cosmos, Carl Sagan
@@ -54,15 +56,17 @@ nav: true
 		3Blue1Brown		
 
 		The Complete Guide to Asperger Syndrome
+		The Feeling Good Handbook
 		The Book of Why, Judea Pearl
 		The Demon Haunted World, Science as a Candle in The Dark,  Carl Sagan
 		Genome, The Autobiography of a Species,  Matt Ridley
 		QED, The Strange Theory of Light and Matter,  Feynman
 		Sapiens, A Brief History of Humankind,  Yuval Hararri
 		Thinking Fast and Slow, Kahneman
+		Predictably Irrational, Dan Ariely
 		Problems in Philosophy, Bertrand Russel
 		The Alignment Problem, Christian
-		Aaronson, Quantum Computing Since Democritus...
+		Quantum Computing Since Democritus..., Aaronson
 
 ## External:
 	
