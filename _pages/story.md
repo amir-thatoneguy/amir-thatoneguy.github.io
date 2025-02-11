@@ -1,8 +1,10 @@
 ---
-layout: about
+layout: page
+permalink: /Story/
 title: A Short Story by Me
-
-
+nav_order: 3
+nav: true
+---
 
 ## Internal:
 
